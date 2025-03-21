@@ -24,8 +24,6 @@ This project features journaling for data integrity, block-based AES-GCM encrypt
 
 ---
 
----
-
 ## ⚙️ Technologies Used
 
 - **C++17+**
@@ -57,6 +55,7 @@ This project features journaling for data integrity, block-based AES-GCM encrypt
 ## 📄 License
 
 MIT License
+
 ---
 
 ## 🙌 Contributions
